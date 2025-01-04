@@ -75,10 +75,6 @@ pip install openai pandas numpy matplotlib
 - Scalability and performance
 - Integration with existing systems
 
-## Contributing
-
-We welcome contributions to the RouteOptimize Solutions project. Please read our contributing guidelines before submitting pull requests.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
